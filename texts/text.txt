@@ -1,0 +1,13 @@
+Large Language Models
+
+Introduction
+
+A large language model (LLM) is a neural network trained on a vast amount of text for natural language processing tasks, especially language generation. LLMs can typically generate, summarize, translate, and analyze text in many contexts, and are a foundational technology behind modern chatbots. Biased or inaccurate training data can make an LLM's output less reliable.
+
+LLMs are typically based on transformer architecture, which is more parallelizable than earlier recurrent neural network models. Generative pre-trained transformers (GPTs) are a type of LLM that is pre-trained to predict the next word. GPTs are then often fine-tuned to follow instructions and to behave as assistants.
+
+Benchmark evaluations for LLMs attempt to measure model reasoning, factual accuracy, alignment, and safety.
+
+Architecture
+
+LLMs are generally based on the transformer architecture, which leverages an attention mechanism that enables the model to process relationships between all elements in a sequence simultaneously, regardless of their distance from each other. Peng et al. (2023) proposed state-space representation models as an alternative.
